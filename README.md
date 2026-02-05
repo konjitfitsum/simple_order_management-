@@ -5,6 +5,6 @@ A minimal full-stack app to manage products and orders.
 
 Tech stack:
 - Node.js + Express
-- SQL (PostgreSQL or MySQL)
+- SQL (MySQL)
 - React
 - Python (reporting)
